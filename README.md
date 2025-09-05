@@ -1,2 +1,3 @@
 # IntroToComputers
-A quick exposure to scientific computing
+
+Code that accompanies our workshop in IB1.
